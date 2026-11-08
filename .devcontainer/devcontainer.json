@@ -1,0 +1,6 @@
+{
+  "name": "OOP (.NET 8 + Python)",
+  "image": "mcr.microsoft.com/devcontainers/dotnet:8.0",
+  "features": { "ghcr.io/devcontainers/features/python:1": {} },
+  "customizations": { "vscode": { "extensions": ["ms-dotnettools.csharp", "ms-python.python"] } }
+}
