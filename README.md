@@ -38,6 +38,7 @@ Bank WSB Bank:
    PL002  Tomasz Nowak        300.00
 ```
 
+
 ## Use of AI
 
-AI tool used: Claude (Anthropic), https://claude.ai, 08.11.2026. Purpose: generating the program code and this README. The code was reviewed and run by me.
+AI (Claude, https://claude.ai, 08.11.2026) was used to help write the code and README; I reviewed and tested it.
